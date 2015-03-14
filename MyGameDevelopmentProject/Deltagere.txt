@@ -1,0 +1,26 @@
+﻿Gr, Navn, Rating
+A, Frode Lillevold, 2175
+A, Steinar Sidselrud, 1990
+A, Lars Erik Pedersen, 2002
+A, Bjarne Engevik, 1652
+A, Lewi Bekkelien, 1689
+A, Øystein Grasmo, NA	
+A, Francisco Silva Gonzàlez, 2085
+B, Frank Olav Bruun, 1484
+B, Gunnar Lilleng, 1240
+B, Leif Jacobsen, 1469
+B, Morten Stenseth, 1094
+B, Bernt Kirkebø, 1480
+B, Ernst Trolle, NA	
+C, Sheroni Amarapala, 750
+B, Anton Amarapala, 1119
+B, Ole Jørgen Aannestad, 1433
+B, Knut Olsen, 1211
+A, Aage Mella, 1725
+A, Carl Peter Kirkebø, 2167
+C, Pempa Thundrup, 607
+C, Andreas Eilertsen, NA	
+B, Leif Rønning, 1193
+C, Elisabeth Aa Solum, 701
+C, Sissel Engevik, NA	
+C, Marius Daae, NA
